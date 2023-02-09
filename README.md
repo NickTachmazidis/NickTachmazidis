@@ -2,7 +2,7 @@
 
 I'm Nick Tachmazidis, a Data Scientist and PhD candidate and I'm always looking for fun projects to work on.
 
-My PhD research resulted in the creation of "Spectra", an open-source application that streamlines the process of pigment analysis for researchers and conservation scientists. You can find it in my repository [Spectra](https://github.com/NickTachmazidis/Spectra).
+My PhD research resulted in the creation of [Spectra](https://github.com/NickTachmazidis/Spectra), an open-source application that streamlines the process of pigment analysis for researchers and conservation scientists. You can find it in my repositories.
 
 - 🔭 I’m currently working on finishing my PhD doctorate.
 - 🌱 I’m currently learning AWS and enchacing my ML and DL knowledge.
