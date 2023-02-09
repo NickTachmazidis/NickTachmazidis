@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nick Tachmazidis, a Data Scientist and PhD candidate. I have over 4+ years of expertise in data processing and data visualization.
+I'm Nick Tachmazidis, a Data Scientist and PhD candidate. I have 4+ years of expertise in data processing and data visualization.
 
 I'm always looking for fun projects to work on.
 
