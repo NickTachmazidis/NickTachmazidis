@@ -9,5 +9,5 @@ My PhD research resulted in the creation of [Spectra](https://github.com/NickTac
 - 👯 I’m looking to collaborate on any Data Science/ML/DL problem.
 - 📫 How to reach me: nick.tachmazidis@gmail.com
 - ⚡ Fun fact: I was a Fine Art teacher and I am a self-taught musician and play the guitar.
-<\br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,aws,azure,bash,docker,flask,figma,git,html,mysql,postgres,sqlite,vscode,)](https://skillicons.dev)
