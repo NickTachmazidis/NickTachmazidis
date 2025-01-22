@@ -2,8 +2,8 @@
 
 <a href="https://github.com/NickTachmazidis/NickTachmazidis">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickTachmazidis/NickTachmazidis/main/dark_mode_v1.svg">
-    <img alt="Nick's GitHub Profile README" src="https://raw.githubusercontent.com/NickTachmazidis/NickTachmazidis/main/light_mode_v1.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickTachmazidis/NickTachmazidis/main/dark_mode_v2.svg">
+    <img alt="Nick's GitHub Profile README" src="https://raw.githubusercontent.com/NickTachmazidis/NickTachmazidis/main/light_mode_v2.svg">
   </picture>
 </a>
 <p>
