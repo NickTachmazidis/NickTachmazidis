@@ -45,11 +45,13 @@
     <tspan x="15" y="530">@@@@@@@@@@@@@@#=%@@@@@@@@@@@@@@@@@@%*  </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
+
 <tspan x="390" y="50">- Info</tspan> -—————————————————————————————————————————————————-—-
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">General</tspan>.<tspan class="key">Roles</tspan>:<tspan class="cc" id="age_data_dots"> ....... </tspan><tspan class="value" id="age_data"> Sr Data Engineer, Python Developer</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">General</tspan>.<tspan class="key">Language</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Greek</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">General</tspan>.<tspan class="key">OS</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Windows 11, Android 14, Linux</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">General</tspan>.<tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">VSCode</tspan>
+
 <tspan x="390" y="170">- Skills</tspan> -———————————————————————————————————————————————-—-
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Language</tspan>.<tspan class="key">Code</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Python, JavaScript</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Language</tspan>.<tspan class="key">SQL</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Postgres, MySQL, BigQuery</tspan>
@@ -61,12 +63,15 @@
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Py</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">PySpark, Pandas, Numpy, Scikit-learn</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Py</tspan>.<tspan class="key">ML</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Tensorflow, Pytorch</tspan>
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Py</tspan>.<tspan class="key">Visual</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Seaborn, Plotly, Matplotlib</tspan>
-<tspan x="390" y="410">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">nick.tachmazidis@gmail.com</tspan>
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Nick Tachmazidis</tspan>
-<tspan x="390" y="490">- Hobbies</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Painting</tspan><tspan class="key"></tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Oil, Watercolor</tspan>
-<tspan x="390" y="530" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Music</tspan><tspan class="key"></tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Concerts, Guitar</tspan>
-<tspan x="390" y="550" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">etc</tspan><tspan class="key"></tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Theater, Standup</tspan>
+
+<tspan x="390" y="410">- Domains</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Domains</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">BI, Construction, Manufacturing, Medical</tspan>
+
+<tspan x="390" y="470">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">nick.tachmazidis@gmail.com</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Nick Tachmazidis</tspan>
+
+<tspan x="390" y="550">- Hobbies</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="570" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Painting, Guitar, Concerts, Standup, Travel</tspan>
 </text>
 </svg>
